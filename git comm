@@ -12,5 +12,14 @@ git add.
 
 git commit -m "my message"
 
+ssh-keygen -t rsa -b 4096 -C "rabeeh.abouismail@gmail.com"
+
+cat testkey.pub
+
+pbcopy < ./testkey.pub  
+xclip < ./testkey.pub
+git push
+
+
 
 
