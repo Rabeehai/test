@@ -1,0 +1,12 @@
+git --version
+
+git clone https://github.com/Rabeehai/test.git
+
+ls -la
+
+la
+
+git status
+
+
+
