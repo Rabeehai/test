@@ -8,5 +8,9 @@ la
 
 git status
 
+git add.
+
+git commit -m "my message"
+
 
 
